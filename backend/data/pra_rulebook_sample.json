@@ -1,0 +1,50 @@
+[
+    {
+        "reference": "CRR Article 26(1)(a) - Capital Instruments",
+        "article": "Article 26",
+        "section": "Own Funds Requirements",
+        "content": "Capital instruments qualify as Common Equity Tier 1 instruments only if they meet all conditions: (a) the instruments are issued directly by the institution with the prior approval of the owners of the institution; (b) the instruments are paid up and their purchase is not funded directly or indirectly by the institution; (c) the instruments are perpetual; (d) the principal amount of the instruments may not be reduced or repaid, except in either of the following cases: (i) the liquidation of the institution; (ii) discretionary repurchases of the instruments or other means of reducing capital."
+    },
+    {
+        "reference": "CRR Article 26(1)(c) - Retained Earnings",
+        "article": "Article 26",
+        "section": "Own Funds Requirements",
+        "content": "Retained earnings are profits and losses brought forward as a result of the final application of profit or loss. Institutions shall include interim profits or year-end profits in Common Equity Tier 1 items before an official decision on the final profit or loss has been taken only with the prior permission of the competent authority. Retained earnings represent the accumulated net income that has been retained by an institution rather than distributed to shareholders as dividends. For COREP reporting purposes, retained earnings are reported in row 030 of the C01 template."
+    },
+    {
+        "reference": "CRR Article 51 - Additional Tier 1 Instruments",
+        "article": "Article 51",
+        "section": "Additional Tier 1 Capital",
+        "content": "Capital instruments qualify as Additional Tier 1 instruments only if the following conditions are met: (a) the instruments are issued and paid up; (b) the instruments are not purchased and the purchase is not funded directly or indirectly by the institution; (c) the instruments rank below Tier 2 instruments in the event of the insolvency of the institution; (d) the instruments are not secured, or subject to a guarantee that enhances the seniority of the claim; (e) the instruments are perpetual and the provisions governing them include no incentive for the institution to redeem them. Common AT1 instruments include contingent convertible bonds (CoCos) that convert to equity or are written down upon a trigger event."
+    },
+    {
+        "reference": "CRR Article 62 - Tier 2 Instruments",
+        "article": "Article 62",
+        "section": "Tier 2 Capital",
+        "content": "Tier 2 items consist of: (a) capital instruments, where the conditions laid down in Article 63 are met; (b) the share premium accounts related to the instruments referred to in point (a); (c) general credit risk adjustments, gross of tax effects, of up to 1.25% of risk-weighted exposure amounts calculated in accordance with Part Three, Title II, Chapter 2. Tier 2 instruments are typically subordinated debt with an original maturity of at least five years. The amount of Tier 2 capital that may be included is limited to 100% of Tier 1 capital."
+    },
+    {
+        "reference": "CRR Article 72 - Total Own Funds",
+        "article": "Article 72",
+        "section": "Own Funds",
+        "content": "The own funds of an institution consist of the sum of its Tier 1 capital and Tier 2 capital. Tier 1 capital consists of the sum of Common Equity Tier 1 capital and Additional Tier 1 capital. Institutions must at all times hold own funds totalling at least 8% of their total risk exposure amount (total capital ratio), of which at least 6% must be Tier 1 capital (Tier 1 capital ratio), and at least 4.5% must be Common Equity Tier 1 capital (CET1 capital ratio)."
+    },
+    {
+        "reference": "PRA Rulebook - Own Funds 2.1",
+        "article": "Rule 2.1",
+        "section": "PRA Own Funds",
+        "content": "A firm must hold own funds calculated in accordance with CRR Article 72. For CRD firms, this means maintaining capital resources that consist of CET1 capital, AT1 capital and Tier 2 capital. A UK bank must comply with the minimum capital requirements as specified by the PRA, which may include institution-specific buffers such as the Pillar 2A capital requirement, Pillar 2B capital buffer, countercyclical capital buffer, and systemic risk buffer where applicable."
+    },
+    {
+        "reference": "PRA Supervisory Statement SS31/15 - Capital Instruments",
+        "article": "SS31/15",
+        "section": "PRA Guidance",
+        "content": "The PRA expects firms to notify it in advance of any planned issuance of capital instruments intended to count towards regulatory capital. For CET1 instruments, this includes ordinary shares. The PRA will assess whether the instruments meet all eligibility criteria before they can be included in own funds calculations. Firms should ensure that the terms of capital instruments do not contain any features that could call into question their loss-absorbing capacity."
+    },
+    {
+        "reference": "CRR Article 28 - Ordinary Shares",
+        "article": "Article 28",
+        "section": "CET1 Instruments",
+        "content": "Ordinary shares issued by an institution qualify as Common Equity Tier 1 instruments if: (a) they are classified as equity under the applicable accounting framework; (b) they are recognized as equity capital for the purposes of determining balance sheet insolvency; (c) the principal amount is perpetual; (d) there are no circumstances under which distributions are obligatory; (e) distributions are only paid out of distributable items. Fully paid-up ordinary shares represent the core component of highest quality capital."
+    }
+]

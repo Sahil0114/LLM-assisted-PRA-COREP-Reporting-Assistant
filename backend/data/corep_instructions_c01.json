@@ -1,0 +1,68 @@
+[
+    {
+        "reference": "C01 Template Instructions - Row 010",
+        "article": "C01.00",
+        "section": "Own Funds Template",
+        "content": "Row 010 - Capital instruments eligible as CET1 Capital: Report the paid-up amount of capital instruments that qualify as CET1 instruments under CRR Article 26(1)(a). This includes ordinary shares, membership shares or equivalent in cooperative banks, and founders' shares. The amount should be net of any own shares held. This corresponds to the equity instruments that represent the highest quality of capital with full loss-absorbing capacity."
+    },
+    {
+        "reference": "C01 Template Instructions - Row 020",
+        "article": "C01.00",
+        "section": "Own Funds Template",
+        "content": "Row 020 - Share premium: Report the share premium (including paid-in surplus) related to CET1 capital instruments as referred to in CRR Article 26(1)(b). This represents amounts received by the institution in excess of the nominal value of shares issued. Only include share premium related to instruments classified as CET1."
+    },
+    {
+        "reference": "C01 Template Instructions - Row 030",
+        "article": "C01.00",
+        "section": "Own Funds Template",
+        "content": "Row 030 - Retained earnings: Report retained earnings as referred to in CRR Article 26(1)(c). This includes profits and losses brought forward from prior periods, as well as eligible interim and year-end profits (subject to CRR Article 26(2) conditions). Interim profits may only be included with prior approval from the competent authority and after deduction of any foreseeable charge or dividend."
+    },
+    {
+        "reference": "C01 Template Instructions - Row 100",
+        "article": "C01.00",
+        "section": "Own Funds Template",
+        "content": "Row 100 - CET1 capital before regulatory adjustments: This row represents the sum of all CET1 capital items before the application of prudential filters and regulatory deductions. It is calculated as the sum of rows 010 through 070 (capital instruments, share premium, retained earnings, AOCI, other reserves, minority interests, and independent interim profits)."
+    },
+    {
+        "reference": "C01 Template Instructions - Row 200",
+        "article": "C01.00",
+        "section": "Own Funds Template",
+        "content": "Row 200 - CET1 Capital: This is the final CET1 capital amount after all regulatory adjustments have been applied. It equals CET1 capital before adjustments (row 100) minus applicable deductions such as goodwill, intangible assets, deferred tax assets dependent on future profitability, and the shortfall of provisions to expected losses."
+    },
+    {
+        "reference": "C01 Template Instructions - Row 300",
+        "article": "C01.00",
+        "section": "Own Funds Template",
+        "content": "Row 300 - Additional Tier 1 (AT1) instruments: Report the principal amount of capital instruments that qualify as AT1 under CRR Article 51. Common examples include perpetual contingent convertible bonds (CoCos) with discretionary coupon payments. These instruments must be able to absorb losses on a going-concern basis through conversion to equity or principal write-down."
+    },
+    {
+        "reference": "C01 Template Instructions - Row 400",
+        "article": "C01.00",
+        "section": "Own Funds Template",
+        "content": "Row 400 - Tier 1 Capital: The sum of CET1 capital (row 200) and AT1 capital. Institutions must maintain a Tier 1 capital ratio of at least 6% of total risk exposure amount. Tier 1 capital represents the core capital that is fully loss-absorbing on a going-concern basis."
+    },
+    {
+        "reference": "C01 Template Instructions - Row 500",
+        "article": "C01.00",
+        "section": "Own Funds Template",
+        "content": "Row 500 - Tier 2 instruments: Report the principal amount of capital instruments qualifying as Tier 2 under CRR Article 62. This typically includes subordinated debt with an original maturity of at least five years. Tier 2 instruments must be subordinated to all non-subordinated creditors but rank senior to CET1 and AT1 capital in insolvency."
+    },
+    {
+        "reference": "C01 Template Instructions - Row 700",
+        "article": "C01.00",
+        "section": "Own Funds Template",
+        "content": "Row 700 - TOTAL OWN FUNDS: The sum of Tier 1 capital (row 400) and Tier 2 capital (row 600). Institutions must maintain a total capital ratio of at least 8% of total risk exposure amount. This represents the total regulatory capital available to absorb losses on both a going-concern and gone-concern basis."
+    },
+    {
+        "reference": "C01 Validation Rule v0001",
+        "article": "Validation",
+        "section": "EBA Validation Rules",
+        "content": "Validation Rule v0001 (ERROR): CET1 capital before adjustments (row 100) must equal the sum of capital instruments (row 010) + share premium (row 020) + retained earnings (row 030) + AOCI (row 040) + other reserves (row 050) + minority interests (row 060) + interim profits (row 070). A mismatch will result in a blocking error preventing submission."
+    },
+    {
+        "reference": "C01 Validation Rule v0002",
+        "article": "Validation",
+        "section": "EBA Validation Rules",
+        "content": "Validation Rule v0002 (ERROR): Total Own Funds (row 700) must equal Tier 1 Capital (row 400) + Tier 2 Capital (row 600). This consistency check ensures that the components of own funds are correctly aggregated. Failure to satisfy this rule will block submission of the COREP return."
+    }
+]
