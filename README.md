@@ -1,10 +1,10 @@
-# COREP Reporting Assistant
+COREP Reporting Assistant
 
 LLM-assisted regulatory reporting prototype for PRA COREP submissions.
 
-## Quick Start
+Quick Start
 
-### Backend
+Backend
 ```bash
 cd backend
 pip install -r requirements.txt
@@ -13,16 +13,13 @@ set OPENAI_API_KEY=your_key_here
 uvicorn main:app --reload --port 8000
 ```
 
-### Frontend  
+Frontend  
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
-
-Open http://localhost:5173
-
-## Features
+Features
 - Natural language queries for COREP template population
 - RAG-based retrieval of PRA Rulebook and COREP instructions
 - C01 Own Funds template with validation rules
